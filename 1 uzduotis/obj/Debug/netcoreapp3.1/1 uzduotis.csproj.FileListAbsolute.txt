@@ -1,0 +1,13 @@
+C:\Users\Audrius\source\repos\Csharp1paskaita\1 uzduotis\obj\Debug\netcoreapp3.1\1 uzduotis.AssemblyInfoInputs.cache
+C:\Users\Audrius\source\repos\Csharp1paskaita\1 uzduotis\obj\Debug\netcoreapp3.1\1 uzduotis.AssemblyInfo.cs
+C:\Users\Audrius\source\repos\Csharp1paskaita\1 uzduotis\obj\Debug\netcoreapp3.1\1 uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Audrius\source\repos\Csharp1paskaita\1 uzduotis\bin\Debug\netcoreapp3.1\1 uzduotis.exe
+C:\Users\Audrius\source\repos\Csharp1paskaita\1 uzduotis\bin\Debug\netcoreapp3.1\1 uzduotis.deps.json
+C:\Users\Audrius\source\repos\Csharp1paskaita\1 uzduotis\bin\Debug\netcoreapp3.1\1 uzduotis.runtimeconfig.json
+C:\Users\Audrius\source\repos\Csharp1paskaita\1 uzduotis\bin\Debug\netcoreapp3.1\1 uzduotis.runtimeconfig.dev.json
+C:\Users\Audrius\source\repos\Csharp1paskaita\1 uzduotis\bin\Debug\netcoreapp3.1\1 uzduotis.dll
+C:\Users\Audrius\source\repos\Csharp1paskaita\1 uzduotis\bin\Debug\netcoreapp3.1\1 uzduotis.pdb
+C:\Users\Audrius\source\repos\Csharp1paskaita\1 uzduotis\obj\Debug\netcoreapp3.1\1 uzduotis.dll
+C:\Users\Audrius\source\repos\Csharp1paskaita\1 uzduotis\obj\Debug\netcoreapp3.1\1 uzduotis.pdb
+C:\Users\Audrius\source\repos\Csharp1paskaita\1 uzduotis\obj\Debug\netcoreapp3.1\1 uzduotis.genruntimeconfig.cache
+C:\Users\Audrius\source\repos\Csharp1paskaita\1 uzduotis\obj\Debug\netcoreapp3.1\1 uzduotis.csprojAssemblyReference.cache
